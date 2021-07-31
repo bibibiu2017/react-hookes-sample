@@ -1,0 +1,20 @@
+# build output
+.next
+dist
+
+# dependencies
+node_modules
+yarn.lock
+
+# other
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+## K8s ##
+*secret*
